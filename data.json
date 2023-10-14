@@ -1,0 +1,4640 @@
+[
+{
+    "id": "CIS-1600",
+    "title": "Math Found Comp Sci",
+    "description": "What are the basic mathematical concepts and techniques needed in computer science? This course provides an introduction to proof principles and logics, functions and relations, induction principles, combinatorics and graph theory, as well as a rigorous grounding in writing and reading mathematical proofs.",
+    "syllabus_url": null,
+    "semester": "2023C",
+    "prerequisites": "",
+    "course_quality": 2.825,
+    "instructor_quality": 3.038,
+    "difficulty": 3.647,
+    "work_required": 3.73,
+    "crosslistings": [],
+    "pre_ngss_requirements": [],
+    "attributes": [
+        {
+            "code": "ACGC",
+            "school": "SAS",
+            "description": "COGS Computation and Cognition"
+        },
+        {
+            "code": "QU",
+            "school": "MODE",
+            "description": "Grade Mode: Stsfctry/Unstsftry"
+        },
+        {
+            "code": "QS",
+            "school": "MODE",
+            "description": "Grade Mode: Standard Lettr Grd"
+        },
+        {
+            "code": "QP",
+            "school": "MODE",
+            "description": "Grade Mode: Pass/Fail"
+        },
+        {
+            "code": "APPR",
+            "school": "SAS",
+            "description": "PPE Rigorous Reasoning"
+        },
+        {
+            "code": "EUMA",
+            "school": "SEAS",
+            "description": "SEAS Mathematics Elective"
+        },
+        {
+            "code": "EUMS",
+            "school": "SEAS",
+            "description": "SEAS Math/Science/Engrng"
+        },
+        {
+            "code": "EUNE",
+            "school": "SEAS",
+            "description": "SEAS No Engineering Req"
+        },
+        {
+            "code": "NURS",
+            "school": "NUR",
+            "description": "NU Sector ReaSys&Relationship"
+        }
+    ],
+    "sections": [
+        {
+            "id": "CIS-1600-001",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 140,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 8.3,
+                    "end": 9.59,
+                    "room": "TOWN 100"
+                },
+                {
+                    "day": "T",
+                    "start": 8.3,
+                    "end": 9.59,
+                    "room": "TOWN 100"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 11212,
+                    "name": "Rajiv C. Gandhi"
+                }
+            ],
+            "course_quality": 3.08,
+            "instructor_quality": 3.58,
+            "difficulty": 3.82,
+            "work_required": 3.845,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-212",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-209",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-216",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-217",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-210",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-213",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-204",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-215",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-203",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-207",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-208",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-218",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-201",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-206",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-211",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-202",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-205",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-214",
+                    "activity": "REC"
+                }
+            ],
+            "registration_volume": 4
+        },
+        {
+            "id": "CIS-1600-002",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 141,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 10.15,
+                    "end": 11.44,
+                    "room": "TOWN 100"
+                },
+                {
+                    "day": "T",
+                    "start": 10.15,
+                    "end": 11.44,
+                    "room": "TOWN 100"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 11212,
+                    "name": "Rajiv C. Gandhi"
+                }
+            ],
+            "course_quality": 3.08,
+            "instructor_quality": 3.58,
+            "difficulty": 3.82,
+            "work_required": 3.845,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-212",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-209",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-216",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-217",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-210",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-213",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-204",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-215",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-203",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-207",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-208",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-218",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-201",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-206",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-211",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-202",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-205",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1600-214",
+                    "activity": "REC"
+                }
+            ],
+            "registration_volume": 19
+        },
+        {
+            "id": "CIS-1600-201",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 10.15,
+                    "end": 11.14,
+                    "room": "TOWN 305"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 2
+        },
+        {
+            "id": "CIS-1600-202",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 10.15,
+                    "end": 11.14,
+                    "room": "TOWN 309"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 2
+        },
+        {
+            "id": "CIS-1600-203",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 12.0,
+                    "end": 12.59,
+                    "room": "TOWN 315"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 6
+        },
+        {
+            "id": "CIS-1600-204",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 12.0,
+                    "end": 12.59,
+                    "room": "TOWN 319"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 7
+        },
+        {
+            "id": "CIS-1600-205",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 13.45,
+                    "end": 14.44,
+                    "room": "TOWN 305"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 14
+        },
+        {
+            "id": "CIS-1600-206",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 13.45,
+                    "end": 14.44,
+                    "room": "DRLB 3N6"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 14
+        },
+        {
+            "id": "CIS-1600-207",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 15.3,
+                    "end": 16.29,
+                    "room": "TOWN 305"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 3
+        },
+        {
+            "id": "CIS-1600-208",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 15.3,
+                    "end": 16.29,
+                    "room": "TOWN 307"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 3
+        },
+        {
+            "id": "CIS-1600-209",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 17.15,
+                    "end": 18.14,
+                    "room": "TOWN 309"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 7
+        },
+        {
+            "id": "CIS-1600-210",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 17.15,
+                    "end": 18.14,
+                    "room": "TOWN 305"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 7
+        },
+        {
+            "id": "CIS-1600-211",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 19.0,
+                    "end": 19.59,
+                    "room": "TOWN 307"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 3
+        },
+        {
+            "id": "CIS-1600-212",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 19.0,
+                    "end": 19.59,
+                    "room": "TOWN 309"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 4
+        },
+        {
+            "id": "CIS-1600-213",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 20.3,
+                    "end": 21.29,
+                    "room": "TOWN 305"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 3
+        },
+        {
+            "id": "CIS-1600-214",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 20.3,
+                    "end": 21.29,
+                    "room": "TOWN 309"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 3
+        },
+        {
+            "id": "CIS-1600-215",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 10.15,
+                    "end": 11.14,
+                    "room": "TOWN 319"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 3
+        },
+        {
+            "id": "CIS-1600-216",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 12.0,
+                    "end": 12.59,
+                    "room": "TOWN 303"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 7
+        },
+        {
+            "id": "CIS-1600-217",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 13.45,
+                    "end": 14.44,
+                    "room": "DRLB 4E9"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 11
+        },
+        {
+            "id": "CIS-1600-218",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 16,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 15.3,
+                    "end": 16.29,
+                    "room": "TOWN 309"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1600-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1600-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 5
+        }
+    ]
+},
+
+{
+    "id": "CIS-1200",
+    "title": "Prog Lang & Tech I",
+    "description": "A fast-paced introduction to the fundamental concepts of programming and software design. This course assumes some previous programming experience, at the level of a high school computer science class or CIS 1100. (If you got at least 4 in the AP Computer Science A or AB exam, you will do great.) No specific programming language background is assumed: basic experience with any language (for instance Java, C, C++, VB, Python, Perl, or Scheme) is fine. If you have never programmed before, you should take CIS 1100 first.",
+    "syllabus_url": null,
+    "semester": "2023C",
+    "prerequisites": "",
+    "course_quality": 2.877,
+    "instructor_quality": 3.014,
+    "difficulty": 2.95,
+    "work_required": 3.261,
+    "crosslistings": [],
+    "pre_ngss_requirements": [],
+    "attributes": [
+        {
+            "code": "ALNR",
+            "school": "SAS",
+            "description": "ASLD Related Courses"
+        },
+        {
+            "code": "ALCN",
+            "school": "SAS",
+            "description": "LGIC Minor- Logic, Info, and Computing Elective"
+        },
+        {
+            "code": "AU16",
+            "school": "SAS",
+            "description": "College 16 CU Requiremen"
+        },
+        {
+            "code": "ACGC",
+            "school": "SAS",
+            "description": "COGS Computation and Cognition"
+        },
+        {
+            "code": "QU",
+            "school": "MODE",
+            "description": "Grade Mode: Stsfctry/Unstsftry"
+        },
+        {
+            "code": "QS",
+            "school": "MODE",
+            "description": "Grade Mode: Standard Lettr Grd"
+        },
+        {
+            "code": "QP",
+            "school": "MODE",
+            "description": "Grade Mode: Pass/Fail"
+        },
+        {
+            "code": "AUFR",
+            "school": "SAS",
+            "description": "COL Foundational Appr. - Formal Reason&Analysis"
+        },
+        {
+            "code": "EUMS",
+            "school": "SEAS",
+            "description": "SEAS Math/Science/Engrng"
+        },
+        {
+            "code": "NURS",
+            "school": "NUR",
+            "description": "NU Sector ReaSys&Relationship"
+        }
+    ],
+    "sections": [
+        {
+            "id": "CIS-1200-001",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 240,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 10.15,
+                    "end": 11.14,
+                    "room": "STIT 261"
+                },
+                {
+                    "day": "M",
+                    "start": 10.15,
+                    "end": 11.14,
+                    "room": "STIT 261"
+                },
+                {
+                    "day": "W",
+                    "start": 10.15,
+                    "end": 11.14,
+                    "room": "STIT 261"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 6,
+                    "name": "Swapneel Sheth"
+                },
+                {
+                    "id": 7,
+                    "name": "Stephan A. Zdancewic"
+                }
+            ],
+            "course_quality": 2.797,
+            "instructor_quality": 3.137,
+            "difficulty": 3.063,
+            "work_required": 3.283,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-215",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-213",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-220",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-221",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-218",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-214",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-217",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-216",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-203",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-222",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-212",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-208",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-202",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-207",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-205",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-209",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-204",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-219",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-211",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-210",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-206",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-201",
+                    "activity": "REC"
+                }
+            ],
+            "registration_volume": 1
+        },
+        {
+            "id": "CIS-1200-002",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 240,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 12.0,
+                    "end": 12.59,
+                    "room": "STIT 261"
+                },
+                {
+                    "day": "M",
+                    "start": 12.0,
+                    "end": 12.59,
+                    "room": "STIT 261"
+                },
+                {
+                    "day": "W",
+                    "start": 12.0,
+                    "end": 12.59,
+                    "room": "STIT 261"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 6,
+                    "name": "Swapneel Sheth"
+                },
+                {
+                    "id": 7,
+                    "name": "Stephan A. Zdancewic"
+                }
+            ],
+            "course_quality": 2.797,
+            "instructor_quality": 3.137,
+            "difficulty": 3.063,
+            "work_required": 3.283,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-215",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-213",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-220",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-221",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-218",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-214",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-217",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-216",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-203",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-222",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-212",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-208",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-202",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-207",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-205",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-209",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-204",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-219",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-211",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-210",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-206",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1200-201",
+                    "activity": "REC"
+                }
+            ],
+            "registration_volume": 8
+        },
+        {
+            "id": "CIS-1200-201",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "W",
+                    "start": 12.0,
+                    "end": 12.59,
+                    "room": "MOOR 100A"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 4
+        },
+        {
+            "id": "CIS-1200-202",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "W",
+                    "start": 13.45,
+                    "end": 14.44,
+                    "room": "MOOR 100A"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 17
+        },
+        {
+            "id": "CIS-1200-203",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "W",
+                    "start": 13.45,
+                    "end": 14.44,
+                    "room": "MOOR 100B"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 18
+        },
+        {
+            "id": "CIS-1200-204",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "W",
+                    "start": 15.3,
+                    "end": 16.29,
+                    "room": "MOOR 100A"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 15
+        },
+        {
+            "id": "CIS-1200-205",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "W",
+                    "start": 15.3,
+                    "end": 16.29,
+                    "room": "MOOR 100B"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 15
+        },
+        {
+            "id": "CIS-1200-206",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "W",
+                    "start": 17.15,
+                    "end": 18.14,
+                    "room": "MOOR 100A"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 2
+        },
+        {
+            "id": "CIS-1200-207",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "W",
+                    "start": 17.15,
+                    "end": 18.14,
+                    "room": "MOOR 100B"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 2
+        },
+        {
+            "id": "CIS-1200-208",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "W",
+                    "start": 19.0,
+                    "end": 19.59,
+                    "room": "MOOR 100A"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 1
+        },
+        {
+            "id": "CIS-1200-209",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "W",
+                    "start": 13.45,
+                    "end": 14.44,
+                    "room": "MOOR 100C"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 10
+        },
+        {
+            "id": "CIS-1200-210",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 12.0,
+                    "end": 12.59,
+                    "room": "MOOR 100A"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 5
+        },
+        {
+            "id": "CIS-1200-211",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 12.0,
+                    "end": 12.59,
+                    "room": "MOOR 100B"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 1
+        },
+        {
+            "id": "CIS-1200-212",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 13.45,
+                    "end": 14.44,
+                    "room": "MOOR 100A"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 2
+        },
+        {
+            "id": "CIS-1200-213",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 13.45,
+                    "end": 14.44,
+                    "room": "MOOR 100B"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 2
+        },
+        {
+            "id": "CIS-1200-214",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 15.3,
+                    "end": 16.29,
+                    "room": "MOOR 100A"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 4
+        },
+        {
+            "id": "CIS-1200-215",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 15.3,
+                    "end": 16.29,
+                    "room": "MOOR 100B"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 4
+        },
+        {
+            "id": "CIS-1200-216",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 17.15,
+                    "end": 18.14,
+                    "room": "MOOR 100A"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 1
+        },
+        {
+            "id": "CIS-1200-217",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 17.15,
+                    "end": 18.14,
+                    "room": "MOOR 100B"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 1
+        },
+        {
+            "id": "CIS-1200-218",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 19.0,
+                    "end": 19.59,
+                    "room": "MOOR 100A"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 1
+        },
+        {
+            "id": "CIS-1200-219",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 12.0,
+                    "end": 12.59,
+                    "room": "MOOR 100C"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 1
+        },
+        {
+            "id": "CIS-1200-220",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 13.45,
+                    "end": 14.44,
+                    "room": "MOOR 100C"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 1
+        },
+        {
+            "id": "CIS-1200-221",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 15.3,
+                    "end": 16.29,
+                    "room": "MOOR 100C"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 5
+        },
+        {
+            "id": "CIS-1200-222",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 22,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 17.15,
+                    "end": 18.14,
+                    "room": "MOOR 100C"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1200-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CIS-1200-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 1
+        }
+    ]
+},
+{
+    "id": "CIS-5200",
+    "title": "Machine Learning",
+    "description": "This course covers the foundations of statistical machine learning. The focus is on probabilistic and statistical methods for prediction and clustering in high dimensions. Topics covered include linear and logistic regression, SVMs, PCA and dimensionality reduction, EM and HMMs, and deep learning. Elementary probability, calculus, and linear algebra. Basic programming experience.\nDuring Advance Registration and Open Enrollment this course is restricted to the graduate programs listed below. All other students will need to request permission (https://bit.ly/3Ru2uVr) for this course in order to be considered for enrollment. This also applies to all students if the course becomes closed/full.\n\nOnce you have requested permission we will add you to the CIS Waitlist when it opens up towards the end of the Spring semester.\nCIS Waitlist Info: https://advising.cis.upenn.edu/waitlist/",
+    "syllabus_url": null,
+    "semester": "2023C",
+    "prerequisites": "",
+    "course_quality": 2.323,
+    "instructor_quality": 2.657,
+    "difficulty": 3.27,
+    "work_required": 3.293,
+    "crosslistings": [],
+    "pre_ngss_requirements": [],
+    "attributes": [
+        {
+            "code": "HDLA",
+            "school": null,
+            "description": "LING PHD Pre Approved Course"
+        },
+        {
+            "code": "AMAM",
+            "school": "SAS",
+            "description": "MAEC Mathematics Elective"
+        },
+        {
+            "code": "ACGC",
+            "school": "SAS",
+            "description": "COGS Computation and Cognition"
+        },
+        {
+            "code": "QW",
+            "school": "MODE",
+            "description": "Grade Mode: Wharton Grad"
+        },
+        {
+            "code": "QU",
+            "school": "MODE",
+            "description": "Grade Mode: Stsfctry/Unstsftry"
+        },
+        {
+            "code": "QS",
+            "school": "MODE",
+            "description": "Grade Mode: Standard Lettr Grd"
+        },
+        {
+            "code": "QP",
+            "school": "MODE",
+            "description": "Grade Mode: Pass/Fail"
+        },
+        {
+            "code": "QG",
+            "school": "MODE",
+            "description": "Grade Mode: Grad/Prof, no D"
+        },
+        {
+            "code": "EMRT",
+            "school": "SEAS",
+            "description": "MSE Robo Technology Elective"
+        },
+        {
+            "code": "ABBT",
+            "school": "SAS",
+            "description": "NRSC Comp Neuroscience Theory & Modeling Minor"
+        },
+        {
+            "code": "WMBS",
+            "school": "WH",
+            "description": "Wharton MBA Business Analytics Major Elec"
+        },
+        {
+            "code": "WUBD",
+            "school": "WH",
+            "description": "Wharton UG Bus Analytics Data Analysis Elec"
+        },
+        {
+            "code": "EUEI",
+            "school": "SEAS",
+            "description": "ESE Information & Decision Systems"
+        },
+        {
+            "code": "EUMS",
+            "school": "SEAS",
+            "description": "SEAS Math/Science/Engrng"
+        }
+    ],
+    "sections": [
+        {
+            "id": "CIS-5200-001",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 262,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "M",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "LLAB 10"
+                },
+                {
+                    "day": "W",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "LLAB 10"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 14822,
+                    "name": "Jacob R. Gardner"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [],
+            "registration_volume": 0
+        }
+    ]
+},
+
+{
+    "id": "KORN-0103",
+    "title": "Spoken Korean I",
+    "description": "This class is for those that have little to no knowledge of Korean. The main focus is  the development of Korean communication skills by exploring a variety of everyday topics beyond school settings. Students will improve their Korean communication skills by engaging in a variety of interactive activities, role plays, and presentations. Class topics include, but are not limited to, introducing oneself, describing one's surroundings, discussing daily activities and past events, talking about common objects and people, etc. We will also introduce cultural topics in order to deepen students' understanding of Korea's culture and language. NOTE: This course does not count toward the language requirement or the EALC major or minor.  Offered through the Penn Language Center.",
+    "syllabus_url": null,
+    "semester": "2023C",
+    "prerequisites": "",
+    "course_quality": 3.708,
+    "instructor_quality": 3.758,
+    "difficulty": 2.6,
+    "work_required": 1.478,
+    "crosslistings": [],
+    "pre_ngss_requirements": [],
+    "attributes": [
+        {
+            "code": "QU",
+            "school": "MODE",
+            "description": "Grade Mode: Stsfctry/Unstsftry"
+        },
+        {
+            "code": "QS",
+            "school": "MODE",
+            "description": "Grade Mode: Standard Lettr Grd"
+        },
+        {
+            "code": "QP",
+            "school": "MODE",
+            "description": "Grade Mode: Pass/Fail"
+        }
+    ],
+    "sections": [
+        {
+            "id": "KORN-0103-680",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 12,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "M",
+                    "start": 10.15,
+                    "end": 11.44,
+                    "room": "WILL 440"
+                },
+                {
+                    "day": "W",
+                    "start": 10.15,
+                    "end": 11.44,
+                    "room": "WILL 440"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 4571,
+                    "name": "Siwon Lee"
+                }
+            ],
+            "course_quality": 3.677,
+            "instructor_quality": 3.677,
+            "difficulty": 2.6,
+            "work_required": 1.553,
+            "associated_sections": [],
+            "registration_volume": 0
+        }
+    ]
+},
+
+{
+    "id": "MGMT-1010",
+    "title": "Intro To Management",
+    "description": "We all spend much of our lives in organizations. Most of us are born in organizations, educated in organizations, and work in organizations. Organizations emerge because individuals can't (or don't want to) accomplish their goals alone. Management is the art and science of helping individuals achieve their goals together. Managers in an organization determine where their organization is going and how it gets there. More formally, managers formulate strategies and implement those strategies. This course provides a framework for understanding the opportunities and challenges involved in formulating and implementing strategies by taking a \"system\" view of organizations,which means that we examine multiple aspects of how managers address their environments, strategy, structure, culture, tasks, people, and outputs, and how managerial decisions made in these various domains interrelate. The course will help you to understand and analyze how managers can formulate and implement strategies effectively. It will be particularly valuable if you are interested in management consulting, investment analysis, or entrepreneurship - but it will help you to better understand and be a more effective contributor to any organizations you join, whether they are large, established firms or startups. This course must be taken for a grade.\nOne week prior to the start of classes, all of the registration controls will be removed for this course and you may feel free to register for any open recitation and lecture of this course at that time. Seats are obtained on a first-come, first-served basis. Also, please review our enrollment policy at: https://mgmt.wharton.upenn.edu/management-101-enrollment-policy/ for important information.",
+    "syllabus_url": "https://apps.wharton.upenn.edu/syllabi/?term=202330&course=MGMT1010214",
+    "semester": "2023C",
+    "prerequisites": "",
+    "course_quality": 2.491,
+    "instructor_quality": 3.041,
+    "difficulty": 2.199,
+    "work_required": 2.34,
+    "crosslistings": [],
+    "pre_ngss_requirements": [],
+    "attributes": [
+        {
+            "code": "QS",
+            "school": "MODE",
+            "description": "Grade Mode: Standard Lettr Grd"
+        }
+    ],
+    "sections": [
+        {
+            "id": "MGMT-1010-001",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 0.0,
+            "capacity": 150,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "M",
+                    "start": 12.0,
+                    "end": 13.29,
+                    "room": "SHDH 350"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 12513,
+                    "name": "Xu (Henry) Han"
+                }
+            ],
+            "course_quality": 2.938,
+            "instructor_quality": 3.178,
+            "difficulty": 1.569,
+            "work_required": 1.81,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-211",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-208",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-214",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-209",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-206",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-202",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-213",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-212",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-204",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-205",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-201",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-203",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-210",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-207",
+                    "activity": "REC"
+                }
+            ],
+            "registration_volume": 23
+        },
+        {
+            "id": "MGMT-1010-002",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 0.0,
+            "capacity": 149,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "M",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "SHDH 350"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 12513,
+                    "name": "Xu (Henry) Han"
+                }
+            ],
+            "course_quality": 2.938,
+            "instructor_quality": 3.178,
+            "difficulty": 1.569,
+            "work_required": 1.81,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-211",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-208",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-214",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-209",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-206",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-202",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-213",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-212",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-204",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-205",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-201",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-203",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-210",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-207",
+                    "activity": "REC"
+                }
+            ],
+            "registration_volume": 25
+        },
+        {
+            "id": "MGMT-1010-003",
+            "status": "C",
+            "activity": "LEC",
+            "credits": 0.0,
+            "capacity": 107,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "M",
+                    "start": 15.3,
+                    "end": 16.59,
+                    "room": "SHDH 1206"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 12513,
+                    "name": "Xu (Henry) Han"
+                }
+            ],
+            "course_quality": 2.938,
+            "instructor_quality": 3.178,
+            "difficulty": 1.569,
+            "work_required": 1.81,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-211",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-208",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-214",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-209",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-206",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-202",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-213",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-212",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-204",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-205",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-201",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-203",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-210",
+                    "activity": "REC"
+                },
+                {
+                    "id": "MGMT-1010-207",
+                    "activity": "REC"
+                }
+            ],
+            "registration_volume": 22
+        },
+        {
+            "id": "MGMT-1010-201",
+            "status": "C",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 29,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "T",
+                    "start": 8.3,
+                    "end": 9.59,
+                    "room": "JMHH G86"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19729,
+                    "name": "Marissa Shandell"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-003",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 13
+        },
+        {
+            "id": "MGMT-1010-202",
+            "status": "C",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 29,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "T",
+                    "start": 10.15,
+                    "end": 11.44,
+                    "room": "JMHH G86"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19729,
+                    "name": "Marissa Shandell"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-003",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 18
+        },
+        {
+            "id": "MGMT-1010-203",
+            "status": "C",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 29,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "T",
+                    "start": 12.0,
+                    "end": 13.29,
+                    "room": "JMHH G86"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19730,
+                    "name": "Margaret Ann. Moor"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-003",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 17
+        },
+        {
+            "id": "MGMT-1010-204",
+            "status": "C",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 29,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "T",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "JMHH G86"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 9979,
+                    "name": "Emily Ulrich"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-003",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 20
+        },
+        {
+            "id": "MGMT-1010-205",
+            "status": "C",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 29,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "T",
+                    "start": 15.3,
+                    "end": 16.59,
+                    "room": "JMHH G86"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19731,
+                    "name": "Benjamin Willam Julian. Nadolsky"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-003",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 19
+        },
+        {
+            "id": "MGMT-1010-206",
+            "status": "O",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 29,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "W",
+                    "start": 10.15,
+                    "end": 11.44,
+                    "room": "JMHH G88"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 9979,
+                    "name": "Emily Ulrich"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-003",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 17
+        },
+        {
+            "id": "MGMT-1010-207",
+            "status": "C",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 29,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "W",
+                    "start": 12.0,
+                    "end": 13.29,
+                    "room": "JMHH G86"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19730,
+                    "name": "Margaret Ann. Moor"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-003",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 25
+        },
+        {
+            "id": "MGMT-1010-208",
+            "status": "O",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 29,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "W",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "JMHH G88"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19732,
+                    "name": "Vinay Subramanian"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-003",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 25
+        },
+        {
+            "id": "MGMT-1010-209",
+            "status": "C",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 29,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "W",
+                    "start": 15.3,
+                    "end": 16.59,
+                    "room": "JMHH G88"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19731,
+                    "name": "Benjamin Willam Julian. Nadolsky"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-003",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 27
+        },
+        {
+            "id": "MGMT-1010-210",
+            "status": "C",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 29,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "W",
+                    "start": 12.0,
+                    "end": 13.29,
+                    "room": "JMHH G88"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19732,
+                    "name": "Vinay Subramanian"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-003",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 19
+        },
+        {
+            "id": "MGMT-1010-211",
+            "status": "C",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 29,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 10.15,
+                    "end": 11.44,
+                    "room": "JMHH G86"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19733,
+                    "name": "Elaine Pak"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-003",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 15
+        },
+        {
+            "id": "MGMT-1010-212",
+            "status": "C",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 29,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 12.0,
+                    "end": 13.29,
+                    "room": "JMHH G86"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19734,
+                    "name": "Po-Yu Chen"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-003",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 16
+        },
+        {
+            "id": "MGMT-1010-213",
+            "status": "C",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 29,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "JMHH G86"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19735,
+                    "name": "EriOluwa Oluwafikayo. Oni"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-003",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 16
+        },
+        {
+            "id": "MGMT-1010-214",
+            "status": "O",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 29,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 15.3,
+                    "end": 16.59,
+                    "room": "JMHH G86"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19733,
+                    "name": "Elaine Pak"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "MGMT-1010-003",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-002",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "MGMT-1010-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 15
+        }
+    ]
+},
+
+{
+    "id": "CHEM-1011",
+    "title": "Intro to Gen Chem I",
+    "description": "CHEM 1011 is an introductory college-level course in chemistry intended for students with less preparation in high school chemistry and mathematics. The course content parallels that of CHEM 1012, but with emphasis placed on developing problem-solving strategies and developing the underlying chemical principles. The course will take an 'atoms first' approach to introductory chemistry, where topical coverage includes an overview of quantum theory, atomic structure, the periodic table, chemical bonding, elementary chemical reactions, stoichiometry, ideal gases, and intermolecular interactions. Topics from mathematics and physics that are necessary to chemical problem-solving will be included as needed. Prerequisite: Students with credit for CHEM 1012 may not enroll in CHEM 1011. Credit will not be awarded for both CHEM 1011 and 1012.",
+    "syllabus_url": null,
+    "semester": "2023C",
+    "prerequisites": "",
+    "course_quality": 2.494,
+    "instructor_quality": 2.7,
+    "difficulty": 3.309,
+    "work_required": 3.03,
+    "crosslistings": [],
+    "pre_ngss_requirements": [],
+    "attributes": [
+        {
+            "code": "QS",
+            "school": "MODE",
+            "description": "Grade Mode: Standard Lettr Grd"
+        },
+        {
+            "code": "AUPW",
+            "school": "SAS",
+            "description": "COL Sector - Physical World"
+        },
+        {
+            "code": "EUNS",
+            "school": "SEAS",
+            "description": "SEAS Natural Science"
+        },
+        {
+            "code": "EUMS",
+            "school": "SEAS",
+            "description": "SEAS Math/Science/Engrng"
+        },
+        {
+            "code": "WUNM",
+            "school": "WH",
+            "description": "Wharton UG General Education - Nat Sci, Math, Eng"
+        },
+        {
+            "code": "TLPS",
+            "school": null,
+            "description": "Tuition LPS Course"
+        }
+    ],
+    "sections": [
+        {
+            "id": "CHEM-1011-001",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 110,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 15.3,
+                    "end": 16.59,
+                    "room": "CHEM 102"
+                },
+                {
+                    "day": "M",
+                    "start": 15.3,
+                    "end": 16.59,
+                    "room": "CHEM 102"
+                },
+                {
+                    "day": "W",
+                    "start": 15.3,
+                    "end": 16.59,
+                    "room": "CHEM 102"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 15330,
+                    "name": "Anthony Cirri"
+                }
+            ],
+            "course_quality": 2.763,
+            "instructor_quality": 3.18,
+            "difficulty": 3.3,
+            "work_required": 3.023,
+            "associated_sections": [
+                {
+                    "id": "CHEM-1011-201",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CHEM-1011-202",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CHEM-1011-204",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CHEM-1011-206",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CHEM-1011-203",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CHEM-1011-205",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CHEM-1011-207",
+                    "activity": "REC"
+                }
+            ],
+            "registration_volume": 9
+        },
+        {
+            "id": "CHEM-1011-002",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 125,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "CHEM 102"
+                },
+                {
+                    "day": "M",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "CHEM 102"
+                },
+                {
+                    "day": "W",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "CHEM 102"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 15330,
+                    "name": "Anthony Cirri"
+                }
+            ],
+            "course_quality": 2.763,
+            "instructor_quality": 3.18,
+            "difficulty": 3.3,
+            "work_required": 3.023,
+            "associated_sections": [
+                {
+                    "id": "CHEM-1011-201",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CHEM-1011-202",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CHEM-1011-204",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CHEM-1011-206",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CHEM-1011-203",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CHEM-1011-205",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CHEM-1011-207",
+                    "activity": "REC"
+                }
+            ],
+            "registration_volume": 11
+        },
+        {
+            "id": "CHEM-1011-201",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 33,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 15.3,
+                    "end": 16.29,
+                    "room": "CHEM B13"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 15330,
+                    "name": "Anthony Cirri"
+                },
+                {
+                    "id": 19720,
+                    "name": "Juliana Isabelle. Bonilla"
+                },
+                {
+                    "id": 19721,
+                    "name": "Ibrahim Ghassan. Saleh"
+                }
+            ],
+            "course_quality": 2.763,
+            "instructor_quality": 3.18,
+            "difficulty": 3.3,
+            "work_required": 3.023,
+            "associated_sections": [
+                {
+                    "id": "CHEM-1011-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CHEM-1011-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 16
+        },
+        {
+            "id": "CHEM-1011-202",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 34,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 17.15,
+                    "end": 18.14,
+                    "room": "VAGL 2000"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CHEM-1011-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CHEM-1011-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 2
+        },
+        {
+            "id": "CHEM-1011-203",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 32,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 8.3,
+                    "end": 9.29,
+                    "room": "DRLB 3N1H"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 9048,
+                    "name": "Ziao Liu"
+                },
+                {
+                    "id": 19085,
+                    "name": "Heejoon Michael. Shin"
+                },
+                {
+                    "id": 19720,
+                    "name": "Juliana Isabelle. Bonilla"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CHEM-1011-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CHEM-1011-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 1
+        },
+        {
+            "id": "CHEM-1011-204",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 36,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 15.3,
+                    "end": 16.29,
+                    "room": "CHEM 514"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 9048,
+                    "name": "Ziao Liu"
+                },
+                {
+                    "id": 15330,
+                    "name": "Anthony Cirri"
+                }
+            ],
+            "course_quality": 2.763,
+            "instructor_quality": 3.18,
+            "difficulty": 3.3,
+            "work_required": 3.023,
+            "associated_sections": [
+                {
+                    "id": "CHEM-1011-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CHEM-1011-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 5
+        },
+        {
+            "id": "CHEM-1011-205",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 34,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 17.15,
+                    "end": 18.14,
+                    "room": "DRLB 3C2"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 15330,
+                    "name": "Anthony Cirri"
+                },
+                {
+                    "id": 19721,
+                    "name": "Ibrahim Ghassan. Saleh"
+                },
+                {
+                    "id": 19722,
+                    "name": "May Bilal. El Jamal"
+                }
+            ],
+            "course_quality": 2.763,
+            "instructor_quality": 3.18,
+            "difficulty": 3.3,
+            "work_required": 3.023,
+            "associated_sections": [
+                {
+                    "id": "CHEM-1011-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CHEM-1011-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 2
+        },
+        {
+            "id": "CHEM-1011-206",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 31,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 8.3,
+                    "end": 9.29,
+                    "room": "DRLB 3N1H"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 9048,
+                    "name": "Ziao Liu"
+                },
+                {
+                    "id": 19085,
+                    "name": "Heejoon Michael. Shin"
+                },
+                {
+                    "id": 19720,
+                    "name": "Juliana Isabelle. Bonilla"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CHEM-1011-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CHEM-1011-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 1
+        },
+        {
+            "id": "CHEM-1011-207",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 35,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 12.0,
+                    "end": 12.59,
+                    "room": "BENN 201"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 15330,
+                    "name": "Anthony Cirri"
+                },
+                {
+                    "id": 19722,
+                    "name": "May Bilal. El Jamal"
+                }
+            ],
+            "course_quality": 2.763,
+            "instructor_quality": 3.18,
+            "difficulty": 3.3,
+            "work_required": 3.023,
+            "associated_sections": [
+                {
+                    "id": "CHEM-1011-001",
+                    "activity": "LEC"
+                },
+                {
+                    "id": "CHEM-1011-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 8
+        },
+        {
+            "id": "CHEM-1011-601",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 64,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 17.15,
+                    "end": 20.14,
+                    "room": "DRLB A6"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 17996,
+                    "name": "Marta Guron"
+                }
+            ],
+            "course_quality": 3.11,
+            "instructor_quality": 3.33,
+            "difficulty": 3.57,
+            "work_required": 3.14,
+            "associated_sections": [
+                {
+                    "id": "CHEM-1011-602",
+                    "activity": "REC"
+                }
+            ],
+            "registration_volume": 1
+        },
+        {
+            "id": "CHEM-1011-602",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 64,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 20.15,
+                    "end": 21.14,
+                    "room": "DRLB A6"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 17996,
+                    "name": "Marta Guron"
+                }
+            ],
+            "course_quality": 3.11,
+            "instructor_quality": 3.33,
+            "difficulty": 3.57,
+            "work_required": 3.14,
+            "associated_sections": [
+                {
+                    "id": "CHEM-1011-601",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 0
+        }
+    ]
+},
+
+{
+    "id": "FNCE-1010",
+    "title": "Monetary Econ & Glob Eco",
+    "description": "This is an intermediate-level course in macroeconomics and the global economy, including topics in monetary and international economics. The goal is to provide a unified framework for understanding macroeconomic events and policy, which govern the global economic environment of business. The course analyzes the determinants and behavior of employment, production, demand and profits; inflation, interest rates, asset prices, and wages; exchange rates and international flows of goods and assets; including the interaction of the real economy with monetary policy and the financial system. The analysis is applied to current events, both in the US and abroad. Students cannot receive credit for taking both FNCE 1010 and ECON 2200. Wharton students are required to take FNCE 1010.\nCourse must be taken for a grade. Section Activity Co-requisite required. \nNote: Non-Wharton students use the waitlist form located on Finance Dept. website (https://fnce.wharton.upenn.edu/programs/undergraduate/) to request a seat in this course. PLS NOTE: One week prior to the start of classes, the registration controls will be removed for this course and you may register for any open section. Seats are obtained on a first-come, first-served basis. Contact (fnce-courses@wharton.upenn.edu) with any questions. Please do not contact Professor. Thank you.\n",
+    "syllabus_url": "https://apps.wharton.upenn.edu/syllabi/?term=202330&course=FNCE1010203",
+    "semester": "2023C",
+    "prerequisites": "",
+    "course_quality": 2.637,
+    "instructor_quality": 2.842,
+    "difficulty": 2.878,
+    "work_required": 2.49,
+    "crosslistings": [],
+    "pre_ngss_requirements": [],
+    "attributes": [
+        {
+            "code": "AIRP",
+            "school": "SAS",
+            "description": "INTR International Political Economy Elective"
+        },
+        {
+            "code": "AIRE",
+            "school": "SAS",
+            "description": "INTR International Relations Elective"
+        },
+        {
+            "code": "QS",
+            "school": "MODE",
+            "description": "Grade Mode: Standard Lettr Grd"
+        },
+        {
+            "code": "APSI",
+            "school": "SAS",
+            "description": "PSCI International Relations"
+        },
+        {
+            "code": "APSE",
+            "school": "SAS",
+            "description": "PSCI Political Economy"
+        },
+        {
+            "code": "EUSS",
+            "school": "SEAS",
+            "description": "SEAS Social Science"
+        }
+    ],
+    "sections": [
+        {
+            "id": "FNCE-1010-001",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 0.0,
+            "capacity": 78,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 8.3,
+                    "end": 9.59,
+                    "room": "JMHH 245"
+                },
+                {
+                    "day": "T",
+                    "start": 8.3,
+                    "end": 9.59,
+                    "room": "JMHH 245"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 12051,
+                    "name": "Sergio Cristian. Salgado Ibanez"
+                }
+            ],
+            "course_quality": 2.096,
+            "instructor_quality": 2.288,
+            "difficulty": 2.8,
+            "work_required": 2.289,
+            "associated_sections": [
+                {
+                    "id": "FNCE-1010-201",
+                    "activity": "REC"
+                }
+            ],
+            "registration_volume": 44
+        },
+        {
+            "id": "FNCE-1010-002",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 0.0,
+            "capacity": 78,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 10.15,
+                    "end": 11.44,
+                    "room": "JMHH 245"
+                },
+                {
+                    "day": "T",
+                    "start": 10.15,
+                    "end": 11.44,
+                    "room": "JMHH 245"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 12051,
+                    "name": "Sergio Cristian. Salgado Ibanez"
+                }
+            ],
+            "course_quality": 2.096,
+            "instructor_quality": 2.288,
+            "difficulty": 2.8,
+            "work_required": 2.289,
+            "associated_sections": [
+                {
+                    "id": "FNCE-1010-202",
+                    "activity": "REC"
+                }
+            ],
+            "registration_volume": 75
+        },
+        {
+            "id": "FNCE-1010-003",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 0.0,
+            "capacity": 78,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "JMHH 355"
+                },
+                {
+                    "day": "T",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "JMHH 355"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19365,
+                    "name": "Ia Vardishvili"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "FNCE-1010-203",
+                    "activity": "REC"
+                }
+            ],
+            "registration_volume": 70
+        },
+        {
+            "id": "FNCE-1010-201",
+            "status": "O",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 78,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 8.3,
+                    "end": 9.29,
+                    "room": "SHDH 211"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 12051,
+                    "name": "Sergio Cristian. Salgado Ibanez"
+                }
+            ],
+            "course_quality": 2.096,
+            "instructor_quality": 2.288,
+            "difficulty": 2.8,
+            "work_required": 2.289,
+            "associated_sections": [
+                {
+                    "id": "FNCE-1010-001",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 33
+        },
+        {
+            "id": "FNCE-1010-202",
+            "status": "O",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 78,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 10.15,
+                    "end": 11.14,
+                    "room": "SHDH 211"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 12051,
+                    "name": "Sergio Cristian. Salgado Ibanez"
+                }
+            ],
+            "course_quality": 2.096,
+            "instructor_quality": 2.288,
+            "difficulty": 2.8,
+            "work_required": 2.289,
+            "associated_sections": [
+                {
+                    "id": "FNCE-1010-002",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 57
+        },
+        {
+            "id": "FNCE-1010-203",
+            "status": "O",
+            "activity": "REC",
+            "credits": 1.0,
+            "capacity": 78,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 13.45,
+                    "end": 14.44,
+                    "room": "SHDH 211"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19365,
+                    "name": "Ia Vardishvili"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "FNCE-1010-003",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 54
+        }
+    ]
+},
+
+{
+    "id": "CIS-1400",
+    "title": "Intro Cognitive Science",
+    "description": "How do minds work? This course surveys a wide range of answers to this question from disciplines ranging from philosophy to neuroscience. The course devotes special attention to the use of simple computational and mathematical models. Topics include perception, learning, memory, decision making, emotion and consciousness. The course shows how the different views from the parent disciplines interact and identifies some common themes among the theories that have been proposed. The course pays particular attention to the distinctive role of computation in such theories and provides an introduction to some of the main directions of current research in the field. It is a requirement for the BA in Cognitive Science, the BAS in Computer and Cognitive Science, and the minor in Cognitive Science, and it is recommended for students taking the dual degree in Computer and Cognitive Science.",
+    "syllabus_url": null,
+    "semester": "2023C",
+    "prerequisites": "",
+    "course_quality": 2.2,
+    "instructor_quality": 2.488,
+    "difficulty": 2.304,
+    "work_required": 2.23,
+    "crosslistings": [],
+    "pre_ngss_requirements": [],
+    "attributes": [
+        {
+            "code": "AU16",
+            "school": "SAS",
+            "description": "College 16 CU Requiremen"
+        },
+        {
+            "code": "ACGN",
+            "school": "SAS",
+            "description": "COGS Cognitive Neuroscience"
+        },
+        {
+            "code": "ACGL",
+            "school": "SAS",
+            "description": "COGS Language & Mind"
+        },
+        {
+            "code": "ACGC",
+            "school": "SAS",
+            "description": "COGS Computation and Cognition"
+        },
+        {
+            "code": "APCC",
+            "school": "SAS",
+            "description": "PSYC Cognitive Psychology"
+        },
+        {
+            "code": "QU",
+            "school": "MODE",
+            "description": "Grade Mode: Stsfctry/Unstsftry"
+        },
+        {
+            "code": "QS",
+            "school": "MODE",
+            "description": "Grade Mode: Standard Lettr Grd"
+        },
+        {
+            "code": "QP",
+            "school": "MODE",
+            "description": "Grade Mode: Pass/Fail"
+        },
+        {
+            "code": "ABBN",
+            "school": "SAS",
+            "description": "NRSC Minor Course Elective"
+        },
+        {
+            "code": "ABBM",
+            "school": "SAS",
+            "description": "NRSC Major Elective"
+        },
+        {
+            "code": "ABBC",
+            "school": "SAS",
+            "description": "NRSC Computational Neuroscience and Cog Sci Minor"
+        },
+        {
+            "code": "AUNM",
+            "school": "SAS",
+            "description": "COL Sector - Natural Science Across Disciplines"
+        },
+        {
+            "code": "AUFR",
+            "school": "SAS",
+            "description": "COL Foundational Appr. - Formal Reason&Analysis"
+        },
+        {
+            "code": "WUNM",
+            "school": "WH",
+            "description": "Wharton UG General Education - Nat Sci, Math, Eng"
+        },
+        {
+            "code": "NURS",
+            "school": "NUR",
+            "description": "NU Sector ReaSys&Relationship"
+        }
+    ],
+    "sections": [
+        {
+            "id": "CIS-1400-401",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 215,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "DRLB A1"
+                },
+                {
+                    "day": "T",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "DRLB A1"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 15175,
+                    "name": "Russell Richie"
+                }
+            ],
+            "course_quality": 2.36,
+            "instructor_quality": 2.65,
+            "difficulty": 2.215,
+            "work_required": 2.215,
+            "associated_sections": [
+                {
+                    "id": "CIS-1400-402",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1400-404",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1400-412",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1400-405",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1400-409",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1400-403",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1400-406",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1400-407",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1400-410",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1400-408",
+                    "activity": "REC"
+                },
+                {
+                    "id": "CIS-1400-411",
+                    "activity": "REC"
+                }
+            ],
+            "registration_volume": 17
+        },
+        {
+            "id": "CIS-1400-402",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 20,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 15.3,
+                    "end": 16.29,
+                    "room": "GLAB 102"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1400-401",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 7
+        },
+        {
+            "id": "CIS-1400-403",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 20,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 15.3,
+                    "end": 16.29,
+                    "room": "MUSE 330"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1400-401",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 7
+        },
+        {
+            "id": "CIS-1400-404",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 20,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 15.3,
+                    "end": 16.29,
+                    "room": "MEYH B5"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1400-401",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 6
+        },
+        {
+            "id": "CIS-1400-405",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 20,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 15.3,
+                    "end": 16.29,
+                    "room": "TOWN 315"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1400-401",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 7
+        },
+        {
+            "id": "CIS-1400-406",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 20,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 17.15,
+                    "end": 18.14,
+                    "room": "PSYL C41"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1400-401",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 4
+        },
+        {
+            "id": "CIS-1400-407",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 20,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "R",
+                    "start": 17.15,
+                    "end": 18.14,
+                    "room": "PSYL A30"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1400-401",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 4
+        },
+        {
+            "id": "CIS-1400-408",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 20,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 10.15,
+                    "end": 11.14,
+                    "room": "DRLB 4E9"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1400-401",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 3
+        },
+        {
+            "id": "CIS-1400-409",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 20,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 10.15,
+                    "end": 11.14,
+                    "room": "JAFF 104"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1400-401",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 3
+        },
+        {
+            "id": "CIS-1400-410",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 20,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 12.0,
+                    "end": 12.59,
+                    "room": "PSYL C41"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1400-401",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 3
+        },
+        {
+            "id": "CIS-1400-411",
+            "status": "O",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 20,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 12.0,
+                    "end": 12.59,
+                    "room": "BENN 224"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1400-401",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 3
+        },
+        {
+            "id": "CIS-1400-412",
+            "status": "C",
+            "activity": "REC",
+            "credits": 0.0,
+            "capacity": 20,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "F",
+                    "start": 13.45,
+                    "end": 14.44,
+                    "room": "PSYL C41"
+                }
+            ],
+            "instructors": [],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [
+                {
+                    "id": "CIS-1400-401",
+                    "activity": "LEC"
+                }
+            ],
+            "registration_volume": 4
+        }
+    ]
+},
+{
+    "id": "ACCT-1010",
+    "title": "Acct & Financial Report",
+    "description": "This course is an introduction to the basic concepts and standards underlying financial accounting systems. Several important concepts will be studied in detail, including: revenue recognition, inventory, long-lived assets, present value, and long term liabilities. The course emphasizes the construction of the basic financial accounting statements - the income statement, balance sheet, and cash flow statement - as well as their interpretation.\nAuditors need permission.",
+    "syllabus_url": "https://apps.wharton.upenn.edu/syllabi/?term=202330&course=ACCT1010008",
+    "semester": "2023C",
+    "prerequisites": "",
+    "course_quality": 2.381,
+    "instructor_quality": 2.635,
+    "difficulty": 2.809,
+    "work_required": 2.286,
+    "crosslistings": [],
+    "pre_ngss_requirements": [],
+    "attributes": [
+        {
+            "code": "QS",
+            "school": "MODE",
+            "description": "Grade Mode: Standard Lettr Grd"
+        },
+        {
+            "code": "QP",
+            "school": "MODE",
+            "description": "Grade Mode: Pass/Fail"
+        },
+        {
+            "code": "NURS",
+            "school": "NUR",
+            "description": "NU Sector ReaSys&Relationship"
+        }
+    ],
+    "sections": [
+        {
+            "id": "ACCT-1010-001",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 78,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "M",
+                    "start": 8.3,
+                    "end": 9.59,
+                    "room": "JMHH 250"
+                },
+                {
+                    "day": "W",
+                    "start": 8.3,
+                    "end": 9.59,
+                    "room": "JMHH 250"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 1971,
+                    "name": "Luzi Hail"
+                }
+            ],
+            "course_quality": 2.819,
+            "instructor_quality": 3.232,
+            "difficulty": 3.161,
+            "work_required": 2.404,
+            "associated_sections": [],
+            "registration_volume": 86
+        },
+        {
+            "id": "ACCT-1010-002",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 78,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "M",
+                    "start": 10.15,
+                    "end": 11.44,
+                    "room": "JMHH 250"
+                },
+                {
+                    "day": "W",
+                    "start": 10.15,
+                    "end": 11.44,
+                    "room": "JMHH 250"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 1971,
+                    "name": "Luzi Hail"
+                }
+            ],
+            "course_quality": 2.819,
+            "instructor_quality": 3.232,
+            "difficulty": 3.161,
+            "work_required": 2.404,
+            "associated_sections": [],
+            "registration_volume": 175
+        },
+        {
+            "id": "ACCT-1010-003",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 78,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "M",
+                    "start": 10.15,
+                    "end": 11.44,
+                    "room": "JMHH 245"
+                },
+                {
+                    "day": "W",
+                    "start": 10.15,
+                    "end": 11.44,
+                    "room": "JMHH 245"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 17855,
+                    "name": "Carol Seregni"
+                }
+            ],
+            "course_quality": 2.335,
+            "instructor_quality": 2.445,
+            "difficulty": 3.155,
+            "work_required": 2.355,
+            "associated_sections": [],
+            "registration_volume": 73
+        },
+        {
+            "id": "ACCT-1010-004",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 78,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "M",
+                    "start": 12.0,
+                    "end": 13.29,
+                    "room": "JMHH 245"
+                },
+                {
+                    "day": "W",
+                    "start": 12.0,
+                    "end": 13.29,
+                    "room": "JMHH 245"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 17855,
+                    "name": "Carol Seregni"
+                }
+            ],
+            "course_quality": 2.335,
+            "instructor_quality": 2.445,
+            "difficulty": 3.155,
+            "work_required": 2.355,
+            "associated_sections": [],
+            "registration_volume": 65
+        },
+        {
+            "id": "ACCT-1010-005",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 78,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "M",
+                    "start": 12.0,
+                    "end": 13.29,
+                    "room": "JMHH 240"
+                },
+                {
+                    "day": "W",
+                    "start": 12.0,
+                    "end": 13.29,
+                    "room": "JMHH 240"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 2084,
+                    "name": "Allison K. Nicoletti"
+                }
+            ],
+            "course_quality": 2.437,
+            "instructor_quality": 2.873,
+            "difficulty": 3.156,
+            "work_required": 2.407,
+            "associated_sections": [],
+            "registration_volume": 105
+        },
+        {
+            "id": "ACCT-1010-006",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 78,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "M",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "JMHH 240"
+                },
+                {
+                    "day": "W",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "JMHH 240"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 2084,
+                    "name": "Allison K. Nicoletti"
+                }
+            ],
+            "course_quality": 2.437,
+            "instructor_quality": 2.873,
+            "difficulty": 3.156,
+            "work_required": 2.407,
+            "associated_sections": [],
+            "registration_volume": 83
+        },
+        {
+            "id": "ACCT-1010-007",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 77,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "M",
+                    "start": 12.0,
+                    "end": 13.29,
+                    "room": "JMHH 370"
+                },
+                {
+                    "day": "W",
+                    "start": 12.0,
+                    "end": 13.29,
+                    "room": "JMHH 370"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19260,
+                    "name": "Sandra Schafhäutle"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [],
+            "registration_volume": 47
+        },
+        {
+            "id": "ACCT-1010-008",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 77,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "M",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "JMHH 370"
+                },
+                {
+                    "day": "W",
+                    "start": 13.45,
+                    "end": 15.14,
+                    "room": "JMHH 370"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 19260,
+                    "name": "Sandra Schafhäutle"
+                }
+            ],
+            "course_quality": null,
+            "instructor_quality": null,
+            "difficulty": null,
+            "work_required": null,
+            "associated_sections": [],
+            "registration_volume": 47
+        }
+    ]
+},
+{
+    "id": "OIDD-1010",
+    "title": "Introduction To Oidd",
+    "description": "OIDD 101 explores a variety of common quantitative modeling problems that arise frequently in business settings, and discusses how they can be formally modeled and solved with a combination of business insight and computer-based tools. The key topics covered include capacity management, service operations, inventory control, structured decision making, constrained optimization and simulation. This course teaches how to model complex business situations and how to master tools to improve business performance. The goal is to provide a set of foundational skills useful for future coursework atWharton as well as providing an overview of problems and techniques that characterize disciplines that comprise Operations and Information Management.",
+    "syllabus_url": "https://apps.wharton.upenn.edu/syllabi/?term=202330&course=OIDD1010002",
+    "semester": "2023C",
+    "prerequisites": "",
+    "course_quality": 2.671,
+    "instructor_quality": 2.995,
+    "difficulty": 2.816,
+    "work_required": 2.409,
+    "crosslistings": [],
+    "pre_ngss_requirements": [],
+    "attributes": [
+        {
+            "code": "QS",
+            "school": "MODE",
+            "description": "Grade Mode: Standard Lettr Grd"
+        },
+        {
+            "code": "QP",
+            "school": "MODE",
+            "description": "Grade Mode: Pass/Fail"
+        }
+    ],
+    "sections": [
+        {
+            "id": "OIDD-1010-001",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 60,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "M",
+                    "start": 8.3,
+                    "end": 9.59,
+                    "room": "VANC 112"
+                },
+                {
+                    "day": "W",
+                    "start": 8.3,
+                    "end": 9.59,
+                    "room": "VANC 112"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 6197,
+                    "name": "Gerard Cachon"
+                },
+                {
+                    "id": 6198,
+                    "name": "Sergei Savin"
+                }
+            ],
+            "course_quality": 2.672,
+            "instructor_quality": 3.039,
+            "difficulty": 2.777,
+            "work_required": 2.366,
+            "associated_sections": [],
+            "registration_volume": 2
+        },
+        {
+            "id": "OIDD-1010-002",
+            "status": "O",
+            "activity": "LEC",
+            "credits": 1.0,
+            "capacity": 60,
+            "semester": "2023C",
+            "meetings": [
+                {
+                    "day": "M",
+                    "start": 10.15,
+                    "end": 11.44,
+                    "room": "VANC 112"
+                },
+                {
+                    "day": "W",
+                    "start": 10.15,
+                    "end": 11.44,
+                    "room": "VANC 112"
+                }
+            ],
+            "instructors": [
+                {
+                    "id": 6197,
+                    "name": "Gerard Cachon"
+                },
+                {
+                    "id": 6198,
+                    "name": "Sergei Savin"
+                }
+            ],
+            "course_quality": 2.672,
+            "instructor_quality": 3.039,
+            "difficulty": 2.777,
+            "work_required": 2.366,
+            "associated_sections": [],
+            "registration_volume": 25
+        }
+    ]
+}
+
+]
